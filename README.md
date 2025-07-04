@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🩸 Blood Donation App
 
 ## 📚 Table of Contents
