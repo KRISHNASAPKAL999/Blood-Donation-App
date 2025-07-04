@@ -139,7 +139,3 @@ Feel free to reach out for feedback, collaboration, or bug reports:
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120">
 </p>
-=======
-# Blood-Donation-app
-The Blood Donation App is an Android application built with Java, using Firebase for secure user authentication and Google Maps API for locating nearby blood donors, blood banks, and hospitals. Key features include donor matching, real-time mapping, and notifications for urgent blood requests. 
->>>>>>> a4c73f14effa4981fa668808d31cb1e78587cd91
